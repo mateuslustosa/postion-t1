@@ -1,0 +1,19 @@
+.caixa1{
+    border: 1px solid gray
+}
+
+.caixa2{
+    height: 200px;
+    margin-top: 10px;
+    border: 1px solid gray;
+}
+
+button{
+    padding: 10px;
+    position: relative;
+    top: 0px;
+}
+
+h2{
+    position: absolute;
+}
